@@ -34,7 +34,7 @@ const projects = [
 {
   num: '03',
   category: 'Fullstack',
-  title: 'Ecommerce Website with VueJS',
+  title: 'E-commerce Website with VueJS',
   des:'Building the system with the server is Nodejs and MySQL and the Vue interface with Tailwindcss.',
   stack: [{name:'HTML, CSS'},{name:'VueJS'},{name:'NodeJs'},{name:'MySQL'}, {name:'Tailwindcss'}],
   image:'/assets/work/thumb3.png',
@@ -44,6 +44,16 @@ const projects = [
 {
   num: '04',
   category: 'Fullstack',
+  title: 'Social Website with NextJs and NodeJs',
+  des:'Building the system with the server is Nodejs and MySQL and the NextJs interface with Tailwindcss.',
+  stack: [{name:'HTML, CSS'},{name:'NextJS'},{name:'NodeJs'},{name:'MySQL'}, {name:'Tailwindcss'}],
+  image:'/assets/work/thumb8.png',
+  live:'',
+  github:'https://github.com/hieu2711/SocialsWithNextJS'
+},
+{
+  num: '05',
+  category: 'Fullstack',
   title: 'ChatApp Realtime with Firebase',
   des:'Building a real-time chat system with Firebase and MongoDB.',
   stack: [{name:'React'},{name:'Firebase'},{name:'MongoDB'}, {name:'Tailwindcss'}],
@@ -52,7 +62,7 @@ const projects = [
   github:'https://github.com/hieu2711/ChatRealTimeApp'
 },
 {
-  num: '05',
+  num: '06',
   category: 'Fullstack',
   title: 'Mobile App Flower Shopping',
   des:'Building a system of flowers on mobile by Java.',
@@ -62,7 +72,7 @@ const projects = [
   github:'https://github.com/hieu2711/FlowerApp'
 },
 {
-  num: '06',
+  num: '07',
   category: 'Fullstack',
   title: 'Rent house Website',
   des:'Building a system of rental rooms with ReactJs.',
@@ -72,7 +82,7 @@ const projects = [
   github:'https://github.com/hieu2711/WebRentRoom'
 },
 {
-  num: '07',
+  num: '08',
   category: 'Front-End',
   title: 'LandingPage Sport with TypeScript',
   des:'Building interface and effects for specific Landingpage.',
